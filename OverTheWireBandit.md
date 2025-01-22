@@ -10,4 +10,4 @@ Thanks a lot for providing us with these resourceful and helpful websites where 
 
 #Level 0
 This level is just a give away on the website. So yeah i dont need to say anything about this
-![]
+![Level 0 pics]{LinuxLuminariumAndBandit/OverTheWireBandit}

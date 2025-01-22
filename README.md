@@ -5,4 +5,4 @@ I would like to say that it was really informative and doing it actually introdu
 
 # Level 0 T
 his level is just a give away on the website. So yeah i dont need to say anything about this 
-![Level 0 pics]{https://github.com/P829060/LinuxLuminariumAndBandit/blob/315d4ca3bb6e51dd54dbb8afdb973ab790753485/Screenshot%202024-12-13%20120654.png} 
+![Level 0 pics](https://github.com/P829060/LinuxLuminariumAndBandit/blob/315d4ca3bb6e51dd54dbb8afdb973ab790753485/Screenshot%202024-12-13%20120654.png) 
